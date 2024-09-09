@@ -32,6 +32,7 @@ Code Space is a platform where developers can explore and share insights on the 
 
 ## **Copyright & License**
 © [2024] Mukesh Utmani. All rights reserved.
+This project is open-source for learning purposes, but copying, redistribution, or commercial use of this code is prohibited without permission
 
 ------------------------
 
